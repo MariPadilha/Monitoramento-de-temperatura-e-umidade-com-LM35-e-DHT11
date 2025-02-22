@@ -43,7 +43,7 @@ O objetivo é simular o comportamento do material em condições reais e analisa
 ## 💾 **Código Fonte**  
 O código desenvolvido para o Arduino lê os sensores LM35 e DHT11, armazena os dados no cartão SD e organiza os arquivos para facilitar a análise posterior.  
 
-📂 O código pode ser acessado [aqui](link).  
+📂 O código pode ser acessado [aqui](https://github.com/MariPadilha/Monitoramento-de-temperatura-e-umidade-com-LM35-e-DHT11/blob/main/main.cpp).  
 
 ---
 
