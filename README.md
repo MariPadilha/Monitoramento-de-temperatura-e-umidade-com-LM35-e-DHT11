@@ -15,7 +15,7 @@ O objetivo é simular o comportamento do material em condições reais e analisa
 - **Produção e aplicação** da placa de espuma vítrea sobre um forro de gesso em um protótipo de alvenaria.  
 - **Instalação de sensores** para coleta de dados:  
   - **LM35** para medição da temperatura em diferentes pontos.  
-  - **DHT11** para aferição de temperatura e umidade.  
+  - **DHT11** para aferição da umidade.  
 - **Configuração do sistema** com um **Arduino UNO** para controle e armazenamento dos dados.  
 - **Comparação entre dois protótipos idênticos:**  
   - **Protótipo de referência**: apenas com forro de gesso convencional.  
