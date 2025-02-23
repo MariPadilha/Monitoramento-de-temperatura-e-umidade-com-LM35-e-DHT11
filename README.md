@@ -58,6 +58,7 @@ O código desenvolvido para o Arduino lê os sensores LM35 e DHT11, armazena os 
 ---
 
 ## 📷 **Fotos do Projeto**  
-*()*  
+*[circuito montado](https://github.com/MariPadilha/Monitoramento-de-temperatura-e-umidade-com-LM35-e-DHT11/blob/main/circuito1.jpeg)* 
+*[componentes](https://github.com/MariPadilha/Monitoramento-de-temperatura-e-umidade-com-LM35-e-DHT11/blob/main/circuito2.png)* 
 
 ---
